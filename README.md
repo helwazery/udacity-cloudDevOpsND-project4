@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/helwazery/udacity-cloudDevOpsND-project4>.svg?style=svg&circle-token=<YOUR_STATUS_API_TOKEN>)](<LINK>)
+[![CircleCI](https://circleci.com/gh/helwazery/udacity-cloudDevOpsND-project4>.svg?style=svg&circle-token=hala)](<LINK>)
 
 ## Project Overview
 
