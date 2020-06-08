@@ -1,0 +1,23 @@
+(.project4) ubuntu@ip-172-31-5-28:~/DevOps_Microservices/project-ml-microservice-kubernetes$ sudo ./run_kubernetes.sh
+pod/project4-udacity-nd created
+NAME                  READY   STATUS              RESTARTS   AGE
+nanod-project4        1/1     Running             0          26m
+project4              0/1     ImagePullBackOff    0          35m
+project4-udacity      1/1     Running             0          25m
+project4-udacity-nd   0/1     ContainerCreating   0          0s
+udacity-project4      0/1     ImagePullBackOff    0          33m
+udacitynd-project4    1/1     Running             0          29m
+waiting for the pods to come alive! it takes time..
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
+
+(.project4) ubuntu@ip-172-31-5-28:~/DevOps_Microservices/project-ml-microservice-kubernetes$ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
