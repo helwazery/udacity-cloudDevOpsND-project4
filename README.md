@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/helwazery/udacity-cloudDevOpsND-project4>.svg?style=svg&circle-token=hala)](https://circleci.com/gh/helwazery/udacity-cloudDevOpsND-project4)
+[![CircleCI](https://circleci.com/gh/helwazery/udacity-cloudDevOpsND-project4.svg?style=svg&circle-token=hala)](https://circleci.com/gh/helwazery/udacity-cloudDevOpsND-project4)
+
 
 ## Project Overview
 
